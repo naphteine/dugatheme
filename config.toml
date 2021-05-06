@@ -1,0 +1,24 @@
+baseURL = "https://duga1.com"
+languageCode = "en-us"
+title = "D U G A - 1"
+theme = "dugatheme"
+copyright = "DUGA-1 Systems"
+disableKinds = ["taxonomy", "term"]
+
+[taxonomies]
+	category = "categories"
+	tag = "tags"
+
+[menu]
+	[[menu.main]]
+		identifier = "home"
+		name = "Home"
+		pre = "home"
+		url = "/"
+		weight = 1
+	[[menu.main]]
+		identifier = "products"
+		name = "Products"
+		pre = "products"
+		url = "/products/"
+		weight = 1
