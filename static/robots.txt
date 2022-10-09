@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.duga1.xyz/sitemap.xml
